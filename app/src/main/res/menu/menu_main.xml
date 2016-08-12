@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item
+        android:id="@+id/toggleservice"
+        android:actionViewClass="android.widget.Switch"
+        android:showAsAction="ifRoom"
+        android:title="@string/toggle_service"/>
+
+</menu>
