@@ -1,0 +1,5 @@
+Displays a flash with the current activity name being in foreground.
+
+Requires to activate accessibility service.
+
+It currently opens Huawei volume settings by default.
