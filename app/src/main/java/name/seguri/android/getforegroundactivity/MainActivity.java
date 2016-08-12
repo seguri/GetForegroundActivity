@@ -48,7 +48,7 @@ public class MainActivity extends Activity {
 
     public void onNewIntent(View v) {
         String packageName = mEditPackage.getText().toString();
-        String className = mEditClass.getText().toString();
+        String className = packageName + "." + mEditClass.getText().toString();
         startForeignActivity(packageName, className);
     }
 
