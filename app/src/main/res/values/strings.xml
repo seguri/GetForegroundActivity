@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GetForeGroundActivity</string>
+    <string name="app_name">Get Foreground Activity</string>
     <string name="accessibility_service_description">Get foreground activity information</string>
     <string name="open_accessibility_settings">Open accessibility settings</string>
     <string name="hint_package">Insert a package name</string>
